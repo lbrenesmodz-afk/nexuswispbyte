@@ -1,0 +1,11 @@
+{
+  "name": "nexus-site",
+  "version": "1.0.0",
+  "description": "NEXUS Website on Vercel",
+  "scripts": {
+    "start": "vercel dev",
+    "build": "echo 'Static site - no build step'"
+  },
+  "author": "NEXUS",
+  "license": "MIT"
+}
